@@ -1,0 +1,96 @@
+body{
+	 background-color: black;
+	 background-image:url(../images/kraken/background_kraken1.jpg);
+	 background-repeat: no-repeat;
+	 background-position: center;
+	 background-attachment: fixed;
+	 font-size: 30px;
+	 font-family: britanicc bold;
+
+}
+
+.descripcion{ 
+				text-align: center;
+				color: silver;
+				border: ridge 10px lightblue; 
+
+}
+
+p{ 
+ 	color: gold;
+
+ }
+
+div{text-align: center;
+}
+
+h1{ 
+	text-align: center;
+ 	color: red;
+ 	background: white; 
+	border-radius: 100px;
+
+
+}
+
+ 
+
+ h2{
+ 	color: red;
+ 	text-align: center;
+ 	 }	
+
+ li {color:yellow;
+
+ }
+
+ h3{
+ 	color: pink;
+
+ }
+
+ol  {
+
+border: double black 5px;
+
+ }
+
+  ol li{ 
+ 		border: dashed grey 4px;
+  }
+  .topuno{ 
+ 			font-size: 80px;
+ 			color: #808148;
+ 			font-family: bolt;
+
+ }
+
+ .topdos {
+			font-size: 70px;
+ 			color: #6dbdf2;
+ 			font-family: bolt;
+
+ }
+
+ .toptres{
+ 			font-size: 60px;
+ 			color: #e9e9e7;
+ 			font-family: bolt;
+
+
+ }
+
+ .topcuatro{
+
+ 			font-size: 50px;
+ 			color: #486181;
+ 			font-family: bolt;
+
+ }
+
+ .topcinco{
+ 			font-size: 40px;
+ 			color: #d9477c;
+ 			font-family: bolt;
+
+ }

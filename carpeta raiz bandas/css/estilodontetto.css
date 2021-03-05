@@ -1,0 +1,95 @@
+body{
+	 background-color: #0fd5b2;
+	 background-image:url(../images/don_tetto/fondo4.jpg);
+	 background-repeat: no-repeat;
+	 background-position: center;
+	 background-attachment: fixed;
+	 font-size: 30px;
+	 font-family: britanicc bold;
+
+}
+
+.descripcion{ 
+				text-align: center;
+				color: darkblue;
+				border: ridge 10px lightblue; 
+
+}
+
+p{ 
+ 	color: #43550a;
+
+ }
+
+div{
+	text-align: center;
+	
+}
+
+h1{ 
+	text-align: center;
+ 	color: #757171;
+ 	text-size: 40px;
+ 	background:black; 
+	border-radius: 100px;
+
+}
+
+ 
+
+ h2{
+ 	color: #e507f9;
+ 	text-align: center;
+ 	 }	
+
+ li {color:red;
+
+ }
+
+ h3{
+ 	color: blue;
+
+ }
+
+ 
+
+  ol li{ 
+ 		border: dashed grey 4px;
+  }
+
+  .topuno{ 
+ 			font-size: 80px;
+ 			color: #071efc;
+ 			font-family: bolt;
+
+ }
+
+ .topdos {
+			font-size: 70px;
+ 			color: #07eefc;
+ 			font-family: bolt;
+
+ }
+
+ .toptres{
+ 			font-size: 60px;
+ 			color: grey;
+ 			font-family: bolt;
+
+
+ }
+
+ .topcuatro{
+
+ 			font-size: 50px;
+ 			color: #18fc07;
+ 			font-family: bolt;
+
+ }
+
+ .topcinco{
+ 			font-size: 40px;
+ 			color: #8607fc;
+ 			font-family: bolt;
+
+ }

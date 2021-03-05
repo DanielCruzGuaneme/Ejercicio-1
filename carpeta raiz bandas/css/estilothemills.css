@@ -1,0 +1,105 @@
+body{
+	 background-color: #eca4a7;
+	 background-image:url(../images/the_mills/background_themills1.jpg);
+	 background-repeat: no-repeat;
+	 background-position: center;
+	 background-attachment: fixed;
+	 font-size: 30px;
+	 font-family: britanicc bold;
+
+}
+
+.descripcion{ 
+				text-align: center;
+				color: darkblue;
+				border: ridge 10px lightblue; 
+
+}
+
+p{ 
+
+ 	color: black;
+
+ }
+
+div{text-align: center;
+}
+
+h1{ 
+	text-align: center;
+ 	color: #83fdd6;
+ 	font-size: 70px;
+	background:black; 
+	border-radius: 100px;
+
+
+}
+
+ 
+
+ h2{
+ 	color: #873381;
+ 	text-align: center;
+ 	 }	
+
+ li {color:red;
+
+
+ }
+
+ h3{
+ 	color: blue;
+
+ }
+
+ ol  {
+
+border: double black 5px;
+padding: 100px; 
+
+ }
+
+ ol li{ 
+ 		border: dashed lightblue 4px;
+
+ 	margin: 50px auto;
+
+
+  }
+
+ .topuno{ 
+ 			font-size: 80px;
+ 			color: #071efc;
+ 			font-family: bolt;
+
+ }
+
+ .topdos {
+			font-size: 70px;
+ 			color: #07eefc;
+ 			font-family: bolt;
+
+ }
+
+ .toptres{
+ 			font-size: 60px;
+ 			color: #07fc80;
+ 			font-family: bolt;
+
+
+ }
+
+ .topcuatro{
+
+ 			font-size: 50px;
+ 			color: #18fc07;
+ 			font-family: bolt;
+
+ }
+
+ .topcinco{
+ 			font-size: 40px;
+ 			color: #8607fc;
+ 			font-family: bolt;
+
+ }
